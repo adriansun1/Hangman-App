@@ -6,10 +6,10 @@ to play Hangman.
 Want to learn how to code, and how to code really well. Figure this is a good enough place to start.
 
 ## Build status
-Finished project.
+Finished project. Might have some minor bugs, will be fixed if I ever run across.
 
 ## Screenshots
-[Screenshot](https://raw.github.com/Sgshi/Hangman-App/master/Screenshots/Capture.png)
+[Screenshot](https://raw.github.com/Sgshi/Hangman-App/blob/master/screenshot/Capture.PNG)
 
 ## Tech/framework used
 Built in Java using Swing for GUI
