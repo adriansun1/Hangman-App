@@ -9,7 +9,7 @@ Want to learn how to code, and how to code really well. Figure this is a good en
 Finished project. Might have some minor bugs, will be fixed if I ever run across.
 
 ## Screenshots
-[Screenshot](https://raw.github.com/Sgshi/Hangman-App/blob/master/screenshot/Capture.PNG)
+[Screenshot](https://github.com/Sgshi/Hangman-App/blob/master/screenshot/Capture.PNG)
 
 ## Tech/framework used
 Built in Java using Swing for GUI
